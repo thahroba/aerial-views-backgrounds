@@ -1,0 +1,11 @@
+{
+  "assets": [
+    {
+      "id": "gaming_mars_test_001",
+      "accessibilityLabel": "Mars Valles Marineris",
+      "type": "aerial",
+      "timeOfDay": "day",
+      "url-1080-SDR": "https://svs.gsfc.nasa.gov/vis/a000000/a000600/a000652/a000652.mp4"
+    }
+  ]
+}
