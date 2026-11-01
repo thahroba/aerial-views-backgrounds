@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "id": "gow_kratos",
+      "accessibilityLabel": "Kratos God of War",
+      "type": "aerial",
+      "timeOfDay": "day",
+      "url-1080-SDR": "https://media.desktophut.com/files/God%20Of%20War%20Kratos%20Downlaod%20Live%20Wallpaper%20HD.mp4"
+    },
+    {
+      "id": "gow_kratos_son",
+      "accessibilityLabel": "Kratos and Atreus",
+      "type": "aerial",
+      "timeOfDay": "day",
+      "url-1080-SDR": "https://www.desktophut.com/files/God%20Of%20War%20Kratos%20And%20Son%20Live%20Wallpaper.mp4"
+    },
+    {
+      "id": "gow_kratos_fog",
+      "accessibilityLabel": "Kratos Fog",
+      "type": "aerial",
+      "timeOfDay": "day",
+      "url-1080-SDR": "https://media.desktophut.com/files/God%20%20Of%20%20War%20%20Kratos%20%20Fog%20%20Live%20%20Wallpaper.mp4"
+    },
+    {
+      "id": "gow_kratos_snow",
+      "accessibilityLabel": "Kratos in the Snow",
+      "type": "aerial",
+      "timeOfDay": "day",
+      "url-1080-SDR": "https://www.desktophut.com/files/1655315095-1655315095-kratos-in-the-snow-god-of-war-hd-live-wallpaper-for-pc.mp4"
+    }
+  ]
+}
